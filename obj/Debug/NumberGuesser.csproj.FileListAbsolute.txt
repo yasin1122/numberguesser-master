@@ -1,0 +1,13 @@
+d:/dropbox/documents/visual studio 2017/Projects/NumberGuesser/bin/Debug/NumberGuesser.exe.config
+d:/dropbox/documents/visual studio 2017/Projects/NumberGuesser/bin/Debug/NumberGuesser.exe
+d:/dropbox/documents/visual studio 2017/Projects/NumberGuesser/bin/Debug/NumberGuesser.pdb
+d:/dropbox/documents/visual studio 2017/Projects/NumberGuesser/obj/Debug/NumberGuesser.csprojResolveAssemblyReference.cache
+d:/dropbox/documents/visual studio 2017/Projects/NumberGuesser/obj/Debug/NumberGuesser.exe
+d:/dropbox/documents/visual studio 2017/Projects/NumberGuesser/obj/Debug/NumberGuesser.pdb
+/Users/yasincakal/Documents/visual-studio/numberguesser-master/bin/Debug/NumberGuesser.exe.config
+/Users/yasincakal/Documents/visual-studio/numberguesser-master/bin/Debug/NumberGuesser.exe
+/Users/yasincakal/Documents/visual-studio/numberguesser-master/bin/Debug/NumberGuesser.pdb
+/Users/yasincakal/Documents/visual-studio/numberguesser-master/obj/Debug/NumberGuesser.csproj.AssemblyReference.cache
+/Users/yasincakal/Documents/visual-studio/numberguesser-master/obj/Debug/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/yasincakal/Documents/visual-studio/numberguesser-master/obj/Debug/NumberGuesser.exe
+/Users/yasincakal/Documents/visual-studio/numberguesser-master/obj/Debug/NumberGuesser.pdb
